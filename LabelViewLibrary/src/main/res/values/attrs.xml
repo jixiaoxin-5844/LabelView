@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LabelView">
+        <attr name="itemMarginTop" format="integer" />          <!--内部LabelItem距离顶部-->
+        <attr name="itemMarginStart" format="integer" />        <!--内部LabelItem距离起始位置-->
+    </declare-styleable>
+
+</resources>
