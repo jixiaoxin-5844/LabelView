@@ -4,7 +4,7 @@ import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import androidx.constraintlayout.widget.ConstraintLayout
-import com.hyt.interfaceA.LabelItemClickListener
+import com.hyt.action.LabelItemClickListener
 import kotlinx.android.synthetic.main.label_item.view.*
 
 /**
